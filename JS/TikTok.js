@@ -1,3 +1,3 @@
 function openApp(url) {
-  window.location.href = "home.html";
+  window.location.href = "/MockPhone/HTML/home.html";
 }
